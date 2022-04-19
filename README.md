@@ -5,3 +5,4 @@
 - 04-ternary.js -> Kosulların kisa kullanim hali pratik edildi
 - 05-switch_case.js -> case yapisinda kosul mekanizmalari test edildi
 - 06-functions.js -> fonksiyonlarda parametre,return, ic ice fonksiyon yapilari uzerinde calisildi
+- 07-fat_arrow.js -> Fat arrow fonksiyon yapisiyla calismalar yapildi
