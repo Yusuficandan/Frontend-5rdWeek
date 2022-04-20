@@ -6,3 +6,5 @@
 - 05-switch_case.js -> case yapisinda kosul mekanizmalari test edildi
 - 06-functions.js -> fonksiyonlarda parametre,return, ic ice fonksiyon yapilari uzerinde calisildi
 - 07-fat_arrow.js -> Fat arrow fonksiyon yapisiyla calismalar yapildi
+- 08-dom.js -> DOM yapisiyla JS calismalari yapildi, eventler uzerinde calisildi
+- 09-localstorage.js -> local_storage get,set,clear parametreleri uzerinde ornekler yapildi
