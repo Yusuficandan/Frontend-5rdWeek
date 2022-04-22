@@ -8,4 +8,4 @@
 - 07-fat_arrow.js -> Fat arrow fonksiyon yapisiyla calismalar yapildi
 - 08-dom.js -> DOM yapisiyla JS calismalari yapildi, eventler uzerinde calisildi
 - 09-localstorage.js -> local_storage get,set,clear parametreleri uzerinde ornekler yapildi
-- 10-Forms.js -> Formlar uzerinde detayli calismalar yapildi. classlist,append, createelement metotlari kullanildi
+- 10-Forms.js -> Formlar uzerinde detayli calismalar yapildi. classlist,append, createelement metotlari kullanildi / list hatasi duzeltildi

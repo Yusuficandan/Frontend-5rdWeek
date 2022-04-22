@@ -18,14 +18,14 @@
                 addItem(USER_NAME.value, SCORE.value)
                 USER_NAME.value=""
                 SCORE.value=""
-            }
+            } else console.log("hatali giris")
         }
  
         let userListDOM = document.querySelector('#userList')
 
         const addItem = (userName, score) => {
             let liDOM = document.createElement('li')
-            userListDOM.innerHTML = `
+            liDOM.innerHTML = `
             ${userName}
             <span class="badge bg-primary rounded-pill">${score}</span>
             `
